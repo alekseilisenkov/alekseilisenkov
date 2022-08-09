@@ -1,8 +1,8 @@
-### Hi there 👋👋👋 
+### Hi there 👋
 ### My name is Alexey
 
-I'm a QA engineer from Russia and
-here are some points about me:
+**I'm a QA engineer from Russia and**
+**here are some points about me:**
 
 ### Work profile details:
 :man_teacher: ***My experience in QA is over 2 years.***
@@ -25,7 +25,6 @@ here are some points about me:
 
 :weight_lifting:  <code><strong>*Exercising in the gym*</strong></code>
 
-:car:
 :red_car:  <code><strong>*Doing some fix of my old japan car*</strong></code>
 
 :open_book:  <code><strong>*Reading something interesting*</strong></code>
