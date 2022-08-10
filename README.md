@@ -7,9 +7,9 @@
 ### Work profile details:
 :man_teacher: ***My experience in QA is over 2 years.***
 
-:detective: ***Now I'm working in remote for SimbirSoft company***
+:detective: ***Now I work remotly for SimbirSoft company***
 
-:technologist: ***During this time I have different projects, such as mobile, web and desctop apps.***
+:technologist: ***During this time I have different projects, such as: mobile, web and desctop apps.***
 
 :heart: ***I love my job*** 
 
