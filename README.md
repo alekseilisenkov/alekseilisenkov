@@ -21,6 +21,7 @@
 |![Java](img/icons/Java.png)| ![Selenide](img/icons/Selenide.png) | ![Gradle](img/icons/Gradle.png) | ![JUnit5](img/icons/JUnit5.png) | ![Rest-Assured](img/icons/Rest-Assured.png) | ![Jenkins](img/icons/Jenkins.png) | ![Allure Report](img/icons/Allure_Report.png) | ![AllureTestOps](img/icons/AllureTestOps.png) | ![Intelij_IDEA](img/icons/Intelij_IDEA.png) |
 
 
+
 ### My latest project:
 #### Ui tests:
 #### - [Автотесты для интернет-магазина '34PLAY'](https://github.com/alekseilisenkov/trailhead-shop-tests)
