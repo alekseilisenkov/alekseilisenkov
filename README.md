@@ -23,7 +23,9 @@
 
 
 ### My latest project:
-#### Ui tests:
+
+### ***Ui tests:***
+
 #### - [Автотесты для интернет-магазина '34PLAY'](https://github.com/alekseilisenkov/trailhead-shop-tests)
 
 
