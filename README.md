@@ -24,10 +24,17 @@
 
 ### My latest project:
 
-### ***Ui tests:***
+### ***UI tests:***
 
 #### - [Автотесты для интернет-магазина '34PLAY'](https://github.com/alekseilisenkov/trailhead-shop-tests)
 
+### ***API tests:***
+
+#### - [Автотесты для открытой платформы 'PetStore'](https://github.com/alekseilisenkov/petstore-api-project)
+
+### ***Mobile tests:***
+
+#### - [Автотесты для приложения 'Wikipedia'](https://github.com/alekseilisenkov/wikipedia-mobile-tests-project)
 
 ### :open_umbrella: When I'm not testing you can find me:
 
